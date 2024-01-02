@@ -4,4 +4,4 @@
 
 <p align="center">-Data Science 📊</p>
 <p align="center">-Full-Stack 🖥️</p>
-<pp align="center">-Artificial Intelligence 🤖 </p>
+<p align="center">-Artificial Intelligence 🤖 </p>
